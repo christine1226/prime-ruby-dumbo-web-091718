@@ -1,6 +1,5 @@
 # Add  code here!
 require 'prime'
-def pime?(num)
-  num = rand(1..6)
-  prime.rand()
+def pime?(2)
+  prime.prime?(2)
 end
