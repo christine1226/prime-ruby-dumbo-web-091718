@@ -1,6 +1,10 @@
 # Add  code here!
 def prime?(num)
-  num = 2
-  if num.prime?
-    return true
+  if num = 2
+   num.all? do |i|
+     num % i != 0
+end
+else 
+  return false
+end
 end
