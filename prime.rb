@@ -1,5 +1,6 @@
 # Add  code here!
-def prime?(2)
-  if 2.prime?
+def prime?(num)
+  num = 2
+  if num.prime?
     return true
 end
