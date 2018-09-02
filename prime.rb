@@ -1,5 +1,5 @@
 # Add  code here!
 require 'prime'
-def prime?(2)
+def prime?()
   prime.prime?(2)
 end
