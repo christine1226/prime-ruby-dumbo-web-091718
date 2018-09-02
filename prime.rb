@@ -4,7 +4,7 @@ def prime?(num)
    num.all? do |i|
      num % i != 0
 end
-else 
+else
   return false
 end
 end
